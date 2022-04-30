@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align='center'>
 
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=imtalibkhan.imtalibkhan)
+   
 
 </p>
 <div size='20px'> Hi! My name is Sagar. Thank You for taking the time to view my GitHub Profile :smile:
